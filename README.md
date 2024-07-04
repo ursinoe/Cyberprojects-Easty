@@ -71,7 +71,15 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-CompTIA_Data%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
+## Cloud Projects
+-
 
-## Projects
+## Secuirty Projects
 - Detection Lab
-- SOC Automation Project
+- Securing Linux Server ( Server harding following CIS Controls V8)
+- Windows Server Security ( Hyper-v, Active Directoru Install, Shared folder,EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports,securing      server traffice using certificates)
+- Docker Container Secuirty Project ( Images analysis, images scanning for vulnerable software)
+- Securing Windows 10 Host
+- Network Traffic Analysis for incident reponse
+- Apache Webserver (os harding , tampered binary file, network fitering , adding cookies to accsess log)
+- 
