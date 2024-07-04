@@ -1,7 +1,7 @@
 # Hello, I'm Easton Ursino.
 <a href="https://linkedin.com/in.easton-u-953731157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hi there! I am a recent graduate with a passionate for in technology, dedicated to solving complex problems, and enthusiastic about learning new technologies.
+Hi there! I am a recent graduate with an enormous passion for technology, dedicated to solving complex problems, and enthusiastic about learning new technologies.
 
 ## Objective
 
