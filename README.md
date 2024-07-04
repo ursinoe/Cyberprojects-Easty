@@ -18,7 +18,7 @@ Thank you for taking your time to look at my profile :) Have a wonderful day
 - Azure Storage Security Implementation - Deployed Azure Storage accounts adhering to CIS benchmarks, ensuring robust security measures for data storage and management.
 - Azure VNet Security Configuration - Designed and secured Azure virtual networks (VNets) following CIS benchmarks.
 - Azure Security Center Implementation - Established Azure Security Center to enforce CIS Azure benchmarks.
-- Azure AD Identity Management - Implemented Azure Active Directory (AAD) functionalities following CIS benchmarks to strengthen identity and access management practices in Azure environments.
+- Azure AD Identity Management - Implemented Azure Active Directory (AAD) functionalities following CIS benchmarks to        strengthen identity and access management practices in Azure environments.
 
 ## Secuirty Projects
 - Detection Lab
