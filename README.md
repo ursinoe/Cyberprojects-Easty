@@ -8,11 +8,13 @@ I am a recent graduatewith a profound interest in technology and a dedication to
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security team.I am currently looking for an opportunity to work as a Jr. Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analyst.
+My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analystt.
 
+Thank you for taking your time to look at my profile :) Have a wonderful day
 
+### A dream doesn't become reality through magic; it takes sweat, determination and hard work.
 
-## Projects
+## Home Projects
 
 
 ## Cloud Projects
