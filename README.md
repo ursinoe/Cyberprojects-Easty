@@ -28,7 +28,6 @@ Thank you for taking your time to look at my profile :) Have a wonderful day
 - Securing Windows 10 Host
 - Network Traffic Analysis for incident reponse
 - Apache Webserver (os harding , tampered binary file, network fitering , adding cookies to accsess log)
-- 
 
 ## Tools
 
