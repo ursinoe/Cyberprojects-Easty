@@ -1,13 +1,13 @@
-# Hello, I'm Easton Ursino
+# Hello, I'm Easton Ursino.
 <a href="https://linkedin.com/in.easton-u-953731157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hi there! I am a recent graduate with a passionate interest in technology, dedicated to solving complex problems, and enthusiastic about learning new technologies
+Hi there! I am a recent graduate with a passionate for in technology, dedicated to solving complex problems, and enthusiastic about learning new technologies.
 
 ## Objective
 
-My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analystt.
+My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analyst.
 
-Thank you for taking your time to look at my profile :) Have a wonderful day
+Thank you for taking your time to look at my profile :) Have a wonderful day!
 
 ### (A dream doesn't become reality through magic; it takes sweat, determination and hard work)
 
@@ -21,14 +21,14 @@ Thank you for taking your time to look at my profile :) Have a wonderful day
 - Azure Security Center Implementation - Established Azure Security Center to enforce CIS Azure benchmarks.
 - Azure AD Identity Management - Implemented Azure Active Directory (AAD) functionalities following CIS benchmarks to        strengthen identity and access management practices in Azure environments.
 
-## Secuirty Projects
+## Security Projects
 - Detection Lab
-- Securing Linux Server ( Server harding following CIS Controls V8)
-- Windows Server Security ( Hyper-v, Active Directoru Install, Shared folder,EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports,securing      server traffice using certificates)
-- Docker Container Secuirty Project ( Images analysis, images scanning for vulnerable software)
+- Securing Linux Server ( Server harding following CIS Controls V8 )
+- Windows Server Security ( Hyper-v, Active Directory Install, Shared folder, EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports, securing server traffic using certificates )
+- Docker Container Security Project ( Images analysis, images scanning for vulnerable software )
 - Securing Windows 10 Host
-- Network Traffic Analysis for incident reponse
-- Apache Webserver (os harding , tampered binary file, network fitering , adding cookies to accsess log)
+- Network Traffic Analysis for Incident Response
+- Apache Webserver ( OS harding, tampered binary file, network filtering, adding cookies to access log )
 
 ## Tools
 
@@ -45,7 +45,7 @@ Thank you for taking your time to look at my profile :) Have a wonderful day
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
-### Container Platfroms
+### Container Platforms
 <div> 
 <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
