@@ -66,10 +66,9 @@ My journey in information technology has led me to develop a passion for cyberse
 ### Active Certifications
    
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /
+<img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure%20AZ%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 
 
 ## Projects
