@@ -1,21 +1,17 @@
 # Hello, I'm Easton Ursino
 <a href="https://linkedin.com/in.easton-u-953731157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduatewith a profound interest in technology and a dedication to solving complex problems.
+Hi there! I am a recent graduate with a passionate interest in technology, dedicated to solving complex problems, and enthusiastic about learning new technologies
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analystt.
 
 Thank you for taking your time to look at my profile :) Have a wonderful day
 
-### A dream doesn't become reality through magic; it takes sweat, determination and hard work.
+### (A dream doesn't become reality through magic; it takes sweat, determination and hard work)
 
 ## Home Projects
-
 
 ## Cloud Projects
 - Azure VM Security Setup - Implemented CIS benchmarks for Azure virtual machines (VMs) to ensure secure configurations and compliance with industry standards.
