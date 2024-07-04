@@ -1,5 +1,5 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Easton Ursino
+<a href="www.linkedin.com/in/easton-u-953731157"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
