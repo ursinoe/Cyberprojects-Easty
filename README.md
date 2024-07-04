@@ -10,21 +10,29 @@ I am a recent graduatewith a profound interest in technology and a dedication to
 
 My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security team.I am currently looking for an opportunity to work as a Jr. Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Projects
+
+
+## Cloud Projects
+- Azure VM Security Setup - Implemented CIS benchmarks for Azure virtual machines (VMs) to ensure secure configurations and compliance with industry standards.
+- Azure Storage Security Implementation - Deployed Azure Storage accounts adhering to CIS benchmarks, ensuring robust security measures for data storage and management.
+- Azure VNet Security Configuration - Designed and secured Azure virtual networks (VNets) following CIS benchmarks.
+- Azure Security Center Implementation - Established Azure Security Center to enforce CIS Azure benchmarks.
+- Azure AD Identity Management - Implemented Azure Active Directory (AAD) functionalities following CIS benchmarks to strengthen identity and access management practices in Azure environments.
+
+## Secuirty Projects
+- Detection Lab
+- Securing Linux Server ( Server harding following CIS Controls V8)
+- Windows Server Security ( Hyper-v, Active Directoru Install, Shared folder,EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports,securing      server traffice using certificates)
+- Docker Container Secuirty Project ( Images analysis, images scanning for vulnerable software)
+- Securing Windows 10 Host
+- Network Traffic Analysis for incident reponse
+- Apache Webserver (os harding , tampered binary file, network fitering , adding cookies to accsess log)
+- 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 
 ### Network
 <div>
@@ -71,15 +79,5 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-CompTIA_Data%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
-## Cloud Projects
--
 
-## Secuirty Projects
-- Detection Lab
-- Securing Linux Server ( Server harding following CIS Controls V8)
-- Windows Server Security ( Hyper-v, Active Directoru Install, Shared folder,EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports,securing      server traffice using certificates)
-- Docker Container Secuirty Project ( Images analysis, images scanning for vulnerable software)
-- Securing Windows 10 Host
-- Network Traffic Analysis for incident reponse
-- Apache Webserver (os harding , tampered binary file, network fitering , adding cookies to accsess log)
-- 
+
