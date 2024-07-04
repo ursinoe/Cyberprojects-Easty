@@ -38,6 +38,10 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
+### Container Platfroms
+<div> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+</div>
 
 ### Endpoint
 <div>
