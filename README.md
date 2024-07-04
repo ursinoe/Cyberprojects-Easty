@@ -40,36 +40,37 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ### Container Platfroms
-<div> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+<div> 
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amazon_GuardDuty-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon_GuardDuty-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Vulnerabilty Managment Tools
 <div>
-    <img src="https://img.shields.io/badge/-Qualys-EC3237?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-3D81F6?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys-EC3237?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-CrowdStrike-3D81F6?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>    
 
-## Active Certifications
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /
-    <img src="https://img.shields.io/badge/-Azure%20AZ%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<div>
-
+### Active Certifications
+   
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /
+<img src="https://img.shields.io/badge/-Azure%20AZ%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 </div>
+
 
 ## Projects
 - Detection Lab
