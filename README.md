@@ -47,7 +47,7 @@ My journey in information technology has led me to develop a passion for cyberse
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_GuardDuty-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
 ### SIEM
