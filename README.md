@@ -11,7 +11,8 @@ Thank you for taking your time to look at my profile :) Have a wonderful day
 
 ### (A dream doesn't become reality through magic; it takes sweat, determination and hard work)
 
-## Home Projects
+## Community Projects
+- In this role, I combined my passion for cybersecurity as a student with community service by initiating and leading a cybersecurity awareness program for seniors in my local community. This involved both educating a non-technical audience about cybersecurity essentials and coordinating the overall outreach effort.
 
 ## Cloud Projects
 - Azure VM Security Setup - Implemented CIS benchmarks for Azure virtual machines (VMs) to ensure secure configurations and compliance with industry standards.
