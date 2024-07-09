@@ -10,11 +10,11 @@ Hi there! I am a recent graduate with an enormous passion for technology, dedica
 
 ## Objective
 
-My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analyst.
+My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Engineer, Cloud Security Analyst, SOC Analyst.
 
 Thank you for taking your time to look at my profile :) Have a wonderful day!
 
-### (A dream doesn't become reality through magic; it takes sweat, determination and hard work)
+### " A dream doesn't become reality through magic; it takes sweat, determination and hard work "
 
 ### Active Certifications
    
