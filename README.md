@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# Hello, I'm Easton Ursino.
+# Hello, I'm Easton Ursino
 
 <a href="https://linkedin.com/in.easton-u-953731157">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
