@@ -15,7 +15,7 @@ I bring a positive attitude and a continuous learning mindset to everything I do
 
 
 
-<!--### " A dream doesn't become reality through magic; it takes sweat, determination and hard work " -->
+### " A dream doesn't become reality through magic; it takes sweat, determination and hard work " -->
 
 
 ### Active Certifications
