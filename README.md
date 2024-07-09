@@ -6,13 +6,14 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Hi there! I am a recent graduate with an enormous passion for technology, dedicated to solving complex problems, and enthusiastic about learning new technologies.
+## BIO
+"Hey there! I'm a recent graduate with a strong passion for technology, always eager to tackle complex challenges and explore cutting-edge innovations.
 
-## Objective
+With 7 years of experience in IT project management, program management, development, and governance risk and compliance, I've honed a deep interest in cybersecurity. I'm excited to pivot into roles like Junior Cybersecurity Engineer, Cloud Engineer, Cloud Security Analyst, or SOC Analyst. I thrive in collaborative environments, diving into projects hands-on and delivering results that matter.
 
-My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Engineer, Cloud Security Analyst, SOC Analyst.
+I bring a positive attitude and a continuous learning mindset to everything I do. Thanks for taking the time to check out my resume and GitHub profile—I'm looking forward to discussing how my diverse skills and enthusiastic approach can make a difference on your team! Have a fantastic day!"
 
-Thank you for taking your time to look at my profile :) Have a wonderful day!
+
 
 ### " A dream doesn't become reality through magic; it takes sweat, determination and hard work "
 
