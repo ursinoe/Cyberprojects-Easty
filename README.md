@@ -34,8 +34,7 @@ I bring a positive attitude and a continuous learning mindset to everything I do
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A4DF?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Cloud Platforms
