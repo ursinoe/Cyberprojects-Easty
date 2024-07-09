@@ -10,13 +10,6 @@ Hi there! I am a recent graduate with an enormous passion for technology, dedica
 
 ## Objective
 
-</div>
-
-
-Hi there! I am a recent graduate with an enormous passion for technology, dedicated to solving complex problems, and enthusiastic about learning new technologies.
-
-## Objective
-
 My journey in information technology has cultivated a strong passion for cybersecurity. I am enthusiastic about transitioning into this dynamic field and seeking opportunities to contribute as a Junior Cybersecurity Engineer, Cloud Security Analyst, SOC Analyst, or Vulnerability Management Analyst.
 
 Thank you for taking your time to look at my profile :) Have a wonderful day!
