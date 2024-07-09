@@ -11,24 +11,16 @@ Thank you for taking your time to look at my profile :) Have a wonderful day!
 
 ### (A dream doesn't become reality through magic; it takes sweat, determination and hard work)
 
+### Active Certifications
+   
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20AZ%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Data%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+
 ## Community Projects
 - In this role, I combined my passion for cybersecurity as a student with community service by initiating and leading a cybersecurity awareness program for seniors in my local community. This involved both educating a non-technical audience about cybersecurity essentials and coordinating the overall outreach effort.
-
-## Cloud Projects
-- Azure VM Security Setup - Implemented CIS benchmarks for Azure virtual machines (VMs) to ensure secure configurations and compliance with industry standards.
-- Azure Storage Security Implementation - Deployed Azure Storage accounts adhering to CIS benchmarks, ensuring robust security measures for data storage and management.
-- Azure VNet Security Configuration - Designed and secured Azure virtual networks (VNets) following CIS benchmarks.
-- Azure Security Center Implementation - Established Azure Security Center to enforce CIS Azure benchmarks.
-- Azure AD Identity Management - Implemented Azure Active Directory (AAD) functionalities following CIS benchmarks to        strengthen identity and access management practices in Azure environments.
-
-## Security Projects
-- Detection Lab
-- Securing Linux Server ( Server harding following CIS Controls V8 )
-- Windows Server Security ( Hyper-v, Active Directory Install, Shared folder, EFS and bitlocker encryption, accsess blocking ip addresses and firewall ports, securing server traffic using certificates )
-- Docker Container Security Project ( Images analysis, images scanning for vulnerable software )
-- Securing Windows 10 Host
-- Network Traffic Analysis for Incident Response
-- Apache Webserver ( OS harding, tampered binary file, network filtering, adding cookies to access log )
 
 ## Tools
 
@@ -69,12 +61,7 @@ Thank you for taking your time to look at my profile :) Have a wonderful day!
 <img src="https://img.shields.io/badge/-CrowdStrike-3D81F6?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>    
 
-### Active Certifications
-   
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20SC%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20AZ%3A900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Data%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 
 
 
